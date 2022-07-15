@@ -1,0 +1,15 @@
+[submodule "ntb_testwork"]
+	path = ntb_testwork
+	url = https://github.com/RussianProgram/ntb_testwork.git
+[submodule "kvint_testwork_bot"]
+	path = kvint_testwork_bot
+	url = https://github.com/RussianProgram/kvint_testwork_bot.git
+[submodule "apptrix_testwork"]
+	path = apptrix_testwork
+	url = https://github.com/RussianProgram/apptrix_testwork.git
+[submodule "kefir_testwork"]
+	path = kefir_testwork
+	url = https://github.com/RussianProgram/kefir_testwork.git
+[submodule "FR_testwork"]
+	path = FR_testwork
+	url = https://github.com/RussianProgram/FR_testwork.git
